@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ATEngine
+comment0.text=\n\ The\ AudioTester\ Engine\n
+comment1.params=
+comment1.target=void\ init()
+comment10.params=m\ size
+comment10.target=void\ printMessage(java.lang.String[],\ int)
+comment2.params=c
+comment2.target=void\ center(CHComponent)
+comment3.params=
+comment3.target=void\ start()
+comment4.params=
+comment4.target=void\ clear()
+comment5.params=
+comment5.target=void\ loadFile()
+comment6.params=filename
+comment6.target=java.lang.String\ safeName(java.lang.String)
+comment7.params=safeName
+comment7.target=java.lang.String\ variableName(java.lang.String)
+comment8.params=messages
+comment8.target=CHContainer\ getContainer(java.lang.String[])
+comment8.text=\n\ Create\ a\ container\ for\ multi-line\ messages.\n\ @param\ messages\ an\ array\ of\ Strings\ that\ make\ up\ the\ message.\n\ Each\ String\ in\ messages\ will\ be\ laid\ out\ on\ a\ separate\ line.\n\ @return\ a\ CHContainer\ with\ the\ height\ and\ width\ set\ to\ hold\ \n\ all\ the\ lines\ in\ the\ message.\n
+comment9.params=m
+comment9.target=void\ printMessage(java.lang.String[])
+numComments=11

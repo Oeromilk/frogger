@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CHClip
+comment0.text=\n\ Write\ a\ description\ of\ class\ Oval\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=CHClip()
+comment2.params=path
+comment2.target=void\ setFile(java.lang.String)
+comment3.params=
+comment3.target=boolean\ isValid()
+comment4.params=
+comment4.target=void\ play()
+comment5.params=
+comment5.target=void\ loop()
+comment6.params=
+comment6.target=void\ stop()
+numComments=7

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CHLabel
+comment0.text=\n\ Write\ a\ description\ of\ class\ Oval\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=CHLabel()
+comment2.params=x\ y\ w\ h
+comment2.target=void\ setBounds(double,\ double,\ double,\ double)
+comment3.params=x\ y
+comment3.target=void\ setLocation(double,\ double)
+comment4.params=
+comment4.target=void\ resizeToFit()
+comment4.text=\n\ set\ the\ width\ and\ height\ to\ match\ the\ current\ label\n
+comment5.params=s
+comment5.target=void\ resizeToFit(java.lang.String)
+comment5.text=\n\ set\ the\ width\ and\ height\ to\ fit\ text\n\ @param\ s\ the\ sample\ text\n
+numComments=6

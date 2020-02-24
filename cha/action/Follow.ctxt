@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Follow
+comment0.text=\n\ Write\ a\ description\ of\ class\ FreeMovement\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Follow()
+comment2.params=t
+comment2.target=void\ connect(cha.CHComponent)
+comment3.params=c
+comment3.target=void\ setPath(cha.CHComponent)
+comment4.params=w
+comment4.target=void\ setWrap(boolean)
+comment5.params=
+comment5.target=void\ step()
+numComments=6

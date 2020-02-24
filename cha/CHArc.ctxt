@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CHArc
+comment0.text=\n\ Write\ a\ description\ of\ class\ Oval\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=CHArc()
+comment2.params=start\ sweep
+comment2.target=void\ setArc(double,\ double)
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+numComments=4

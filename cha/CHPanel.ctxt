@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CHPanel
+comment1.params=
+comment1.target=CHPanel()
+comment2.params=b
+comment2.target=void\ add(CHButton)
+comment3.params=b
+comment3.target=void\ add(CHField)
+numComments=4

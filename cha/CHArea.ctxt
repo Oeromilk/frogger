@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=CHArea
+comment0.text=\n\ Write\ a\ description\ of\ class\ CHButton\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=CHArea()
+comment10.params=row\ col
+comment10.target=void\ setGridLocation(int,\ int)
+comment2.params=label
+comment2.target=CHArea(java.lang.String)
+comment3.params=
+comment3.target=java.awt.GridBagConstraints\ getConstraints()
+comment4.params=x
+comment4.target=void\ setInt(int)
+comment5.params=
+comment5.target=int\ getInt()
+comment6.params=x
+comment6.target=void\ setDouble(double)
+comment7.params=
+comment7.target=double\ getDouble()
+comment8.params=
+comment8.target=void\ resizeToFit()
+comment8.text=\n\ set\ the\ width\ and\ height\ to\ match\ the\ current\ label\n
+comment9.params=s
+comment9.target=void\ resizeToFit(java.lang.String)
+comment9.text=\n\ set\ the\ width\ and\ height\ to\ fit\ text\n\ @param\ s\ the\ sample\ text\n
+numComments=11
